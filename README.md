@@ -80,7 +80,8 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-<img width="1920" height="1200" alt="Screenshot 2026-11-23 103639" src="https://github.com/user-attachments/assets/4e95b53c-976d-440a-9605-9ffcf38d60d1" />
+<img width="1920" height="1200" alt="Screenshot 2026-11-23 104533" src="https://github.com/user-attachments/assets/cdc87900-df2e-48f6-9824-b31e956ab0d4" />
+
 
 
 
@@ -99,9 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-<img width="1920" height="1200" alt="Screenshot 2026-11-23 103639" src="https://github.com/user-attachments/assets/7f63a581-7704-4da6-b92d-ed1221eab63a" />
-
-
+<img width="1920" height="1200" alt="Screenshot 2026-11-02 114033" src="https://github.com/user-attachments/assets/d7a42f39-28d2-4f63-8124-2f1d45912c45" />
 
 
 # SEQUENCE DIAGRAM
